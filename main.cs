@@ -1,7 +1,7 @@
 // Created by: Ashley Monaghan
 // Created on: Nov 2022
 //
-//This program converts Fahrenheit to Celsius
+//This program tells you what age rating you can see
 
 using System;
 
