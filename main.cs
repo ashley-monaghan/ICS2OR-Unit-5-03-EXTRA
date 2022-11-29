@@ -19,8 +19,6 @@ class Program
         Console.WriteLine("");
         userAge = Convert.ToInt16(Console.ReadLine());
 
-        Random rnd = new Random();
-
         Console.WriteLine(" ");
         if (userAge >= 17)
         {
